@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+h2{
+  color: blueviolet;
+  background-color: blanchedalmond;
+}
+h1,p,hd1{
+    color: orangered; 
+}
+#hd2{
+    color: blueviolet;
+    background-color: black;
+}
+h1,p,h2{
+    color: indigo;
+    background-color: lightgreen;
+}

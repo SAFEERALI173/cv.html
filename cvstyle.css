@@ -1,0 +1,31 @@
+body{
+    border: 3px solid rgb(83, 83, 117);
+    background-color: rgb(252, 241, 228);
+}
+form{
+    max-width: 600px;
+    margin: 0% auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px;
+}
+#a{
+   text-align: center; 
+}
+#b{
+    text-align:center;
+}
+#c{
+    text-align: left;
+    margin-left: 2cm;
+}
+#d{
+    margin-left: 2cm;
+}
+.e{
+   
+}
+.f{
+    color: skyblue;
+}
